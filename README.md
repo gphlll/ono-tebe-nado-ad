@@ -14,6 +14,10 @@
 - Grid
 - Адаптивная вёрстка
 
+Ссылка на репозиторий
+
+[Оно тебе надо — GitHub](https://github.com/gphlll/ono-tebe-nado-ad)
+
 Запуск проекта
 
 Откройте файл `index.html` в браузере.
